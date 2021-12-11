@@ -1,0 +1,5 @@
+name: DiscoZbroja
+version: 1.0
+main: me.gacekmpl2.main.main
+api-version: 1.17
+authors: [ GacekMPL2 ]
